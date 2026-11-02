@@ -1,0 +1,1 @@
+Esta pasta contém o notebook utilizado como ambiente de desenvolvimento do projeto avaliativo. Nele foram realizados testes de conexão com PostgreSQL, inspeção dos dados e execução dos scripts. Os arquivos finais estão organizados nas pastas SQL, SCRIPTS e NOTEBOOKS. O histórico de desenvolvimento está registrado nos commits e branches do repositório.
